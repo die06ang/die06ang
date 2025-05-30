@@ -2,8 +2,6 @@
 <!-- - 👀 I’m interested in ... -->
 - 🌱 Actualmente estoy estudiando: Desarrollo de Aplicaciones Multiplataforma
 - 💞️ I’m looking to collaborate on ...
-- 📫 Datos de contacto:
-<br>
-    LinkedIn ->
-<br>
-    Email -> dieganfer.dev@gmail.com
+- 📫 Datos de contacto: <pre>
+LinkedIn ->
+Email -> dieganfer.dev@gmail.com</pre>
