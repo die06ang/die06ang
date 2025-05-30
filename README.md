@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Datos de contacto:
 <br>
-LinkedIn ->
+    LinkedIn ->
 <br>
-Email -> dieganfer.dev@gmail.com
+    Email -> dieganfer.dev@gmail.com
