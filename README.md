@@ -3,5 +3,7 @@
 - 🌱 Actualmente estoy estudiando: Desarrollo de Aplicaciones Multiplataforma
 - 💞️ I’m looking to collaborate on ...
 - 📫 Datos de contacto:
-          LinkedIn -> 
-          Email -> dieganfer.dev@gmail.com
+<br>
+LinkedIn ->
+<br>
+Email -> dieganfer.dev@gmail.com
